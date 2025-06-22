@@ -65,17 +65,54 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "id": "917e",
+      "nome": "Cainã Triste",
+      "pao": "Integral",
+      "carne": "Maminha",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "80ab",
+      "nome": "Thais Luz",
+      "pao": "Integral",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "5b4a",
+      "nome": "Thats Gata",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "opcionais": [
+        "Salame",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    }
+  ]
 }
